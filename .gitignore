@@ -1,3 +1,4 @@
 gen_ai
 .env
 resources.txt
+/02_prompts_and_llms.py
